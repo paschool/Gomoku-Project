@@ -1,2 +1,2 @@
 # Gomoku-Project
-Just a simple projevt
+Just a simple project
